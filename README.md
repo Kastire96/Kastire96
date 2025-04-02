@@ -1,4 +1,4 @@
-## Aspiring developer
+## Beginner Game Developer
 
 <!--
 **Kastire96/Kastire96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
